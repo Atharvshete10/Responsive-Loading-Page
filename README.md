@@ -66,7 +66,7 @@ images/screenshot.png
 **Atharv Shete**
 
 - GitHub: https://github.com/Atharvshete10
-- LinkedIn: https://www.linkedin.com/in/atharv-shete
+- LinkedIn: (https://www.linkedin.com/in/atharv-shete-33130b32b/)
 
 ---
 
