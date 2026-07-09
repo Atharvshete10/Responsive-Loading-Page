@@ -35,22 +35,13 @@ PRODIGY_WD_01/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/YourUsername/PRODIGY_WD_01.git
+git clone https://github.com/Atharvshete10/Responsive-Loading-Page.git
 ```
 
 2. Open the project folder.
 
 3. Open `index.html` using **Live Server** in VS Code or any web browser.
 
-## 📷 Screenshot
-
-Add a screenshot of your landing page here.
-
-Example:
-
-```
-images/screenshot.png
-```
 
 ## 🎯 Learning Outcomes
 
